@@ -1,10 +1,7 @@
 # Nifty-50-Stock-Prediction-using-ML
-
-#### Analysis of Nifty50's past 4 years data and predicting the future
-trend for investing.
-#### The used algorithm in python will predict the profit or loss
-based on the data of the the stocks to buy and the return on
-investment
+### OBjective:
+#### 1. Analysis of Nifty50's past 4 years data and predicting the future trend for investing.
+#### 2. The used algorithm in python will predict the profit or loss based on the data of the the stocks to buy and the return on investment
 
 
 <h2>
