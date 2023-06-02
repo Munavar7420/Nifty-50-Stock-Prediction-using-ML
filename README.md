@@ -1,7 +1,11 @@
 # Nifty-50-Stock-Prediction-using-ML
 
-### HOST BEHAVIOR ANALYSIS [SQL Project]
-#### The host behavior analysis for the property rental company is an analysis between a host who is a super host and a normal host and what makes them different. The analysis is of two cities host of Country Canada i.e., Toronto And Vancouver.
+#### Analysis of Nifty50's past 4 years data and predicting the future
+trend for investing.
+#### The used algorithm in python will predict the profit or loss
+based on the data of the the stocks to buy and the return on
+investment
+
 
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Point Of Analysis :
